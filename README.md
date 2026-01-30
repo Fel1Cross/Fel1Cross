@@ -17,9 +17,7 @@
 
 <div align="center">
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api?username=FelipeDeCarvalho&show_icons=true&hide_border=true&title_color=bb86fc&icon_color=bb86fc&text_color=c9d1d9&bg_color=0d1117"/>
-
-<img width="45%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXJlZnhtMGkwZjJuZmhxYXV3bWlpOThuend6MTFqbm43b2pjdWE5ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/wwg1suUiTbCY8H8vIA/giphy.gif"/>
+<img width="45%" src="https://github-readme-stats.vercel.app/api?username=Fel1Cross&show_icons=true&hide_border=true&title_color=bb86fc&icon_color=bb86fc&text_color=c9d1d9&bg_color=0d1117"/>
 
 </div>
 
@@ -31,9 +29,10 @@
 </p>
 
 <div align="next to">
+  
 <img width="45%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExemdyajkxZ3VxZ3QyYXlwYThkMDhoaG5qc2diMXpheWN1enJmZHhwcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/GKXQdN3xNk7dK/giphy.gif"/>
+
 </div>
- 
  
 ---
 
