@@ -73,7 +73,7 @@
 👉 https://github.com/FelipeDeCarvalho/SEU-PROJETO
 
 🔹 **Projeto 2**  
-👉 https://github.com/FelipeDeCarvalho/SEU-PROJETO
+👉 https://github.com/Fel1Cross/JavaGame
 
 🔹 **Projeto 3**  
 👉 https://github.com/FelipeDeCarvalho/SEU-PROJETO
