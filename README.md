@@ -22,6 +22,15 @@
 
 ---
 
+
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajR3OTAwcWMwMXpkbmZmc2kxemt2bXFyZXN0dGNiMW5idW93ZGJ0YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pVWuLuV1JESZJdebkI/giphy.gif" width="400px"> <div align="center">
+  <img width="45%" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3a25qMXhueDZtZnUyeXVsYndlbmd1dW1rY3AxbDA2emFnYjZyOGxoZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ztpMY1t5VYWlO/giphy.gif"/>
+</div>
+
+
+---
+
 ## 🧠 Main Skills
 
 [![Node.js](https://img.shields.io/badge/Node.js-6f00ff?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)
