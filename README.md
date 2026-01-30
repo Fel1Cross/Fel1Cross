@@ -70,13 +70,13 @@
 # 🚀 Featured Projects
 
 🔹 **Projeto 1**  
-👉 https://github.com/FelipeDeCarvalho/SEU-PROJETO
+👉 https://github.com/Fel1Cross/JavaGames
 
 🔹 **Projeto 2**  
-👉 https://github.com/Fel1Cross/JavaGame
+👉 https://github.com/Fel1Cross/calculadora_tab
 
 🔹 **Projeto 3**  
-👉 https://github.com/FelipeDeCarvalho/SEU-PROJETO
+👉 
 
 ---
 
