@@ -81,9 +81,9 @@
 
 # 🌐 Connect with me
 
-[![Instagram](https://img.shields.io/badge/Instagram-6f00ff?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/alv4rezz__)
+[![Instagram](https://img.shields.io/badge/Instagram-6f00ff?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lp.gom3s/)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-6f00ff?style=for-the-badge&logo=linkedin&logoColor=white)](SEU-LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6f00ff?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-de-carvalho-gomes-945171357/)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-6f00ff?style=for-the-badge&logo=google-chrome&logoColor=white)](SEU-PORTFOLIO)
 
