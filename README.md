@@ -4,66 +4,39 @@
 
 ---
 
-# 👨‍💻 About Me
+<h2 align="left">About Me<br><br> Desenvolvedor em formação  <br> Estudante de Análise e Desenvolvimento de Sistemas  <br> Focado em Full Stack  <br> Sempre evoluindo e aprendendo novas tecnologias</h2>
 
-💻 Desenvolvedor em formação  
-🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-🚀 Focado em Full Stack  
-📈 Sempre evoluindo e aprendendo novas tecnologias  
-
----
-
-# 📊 GitHub Stats + Status
+###
 
 <div align="center">
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api?username=Fel1Cross&show_icons=true&hide_border=true&title_color=bb86fc&icon_color=bb86fc&text_color=c9d1d9&bg_color=0d1117"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Fel1Cross&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Fel1Cross&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+###
 
----
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+</div>
 
-# 🧠 Skills
+###
 
-[![Node.js](https://img.shields.io/badge/Node.js-6f00ff?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <a href="https://www.instagram.com/offciallipe/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
 
-[![React](https://img.shields.io/badge/React-6f00ff?style=for-the-badge&logo=react&logoColor=white)](https://react.dev)
-
-[![JavaScript](https://img.shields.io/badge/JavaScript-6f00ff?style=for-the-badge&logo=javascript&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-
-[![C#](https://img.shields.io/badge/C%23-6f00ff?style=for-the-badge&logo=csharp&logoColor=white)](https://learn.microsoft.com/dotnet/csharp/)
-
-[![HTML](https://img.shields.io/badge/HTML-6f00ff?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
-
-[![CSS](https://img.shields.io/badge/CSS-6f00ff?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-
----
-
-# 🛠 Tools
-
-[![VS Code](https://img.shields.io/badge/VS_Code-6f00ff?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com)
-
-[![Visual Studio](https://img.shields.io/badge/Visual_Studio-6f00ff?style=for-the-badge&logo=visual-studio&logoColor=white)](https://visualstudio.microsoft.com)
-
-[![Git](https://img.shields.io/badge/Git-6f00ff?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
-
-[![GitHub](https://img.shields.io/badge/GitHub-6f00ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
-
-[![Figma](https://img.shields.io/badge/Figma-6f00ff?style=for-the-badge&logo=figma&logoColor=white)](https://figma.com)
-
----
-
-# 🚀 Featured Projects
-
-🔹 **Projeto 1**  
-👉 https://github.com/Fel1Cross/JavaGames
-
-🔹 **Projeto 2**  
-👉 https://github.com/Fel1Cross/calculadora_tab
-
-🔹 **Projeto 3**  
-👉 https://github.com/Fel1Cross/Html_Vscode
+###
 
 ---
 
